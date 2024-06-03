@@ -20,7 +20,7 @@ Follow the steps to connect your local hardhat network with Remix and interact w
 
 # Video walkthrough
 
-https://www.loom.com/share/a3018f537e044b1cb394b3c113d8ca8d?sid=88f46f3f-ee56-4784-a462-a7f3e5ad12e7
+https://www.loom.com/share/378ea0c510304cef8f0741a67e2ed879?sid=947611f3-b303-485e-9e0c-6060aca73e30
 
 
 # Authors
