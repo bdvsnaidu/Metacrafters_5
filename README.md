@@ -1,6 +1,6 @@
-# Metacrafters_5
-Eth proof(intermediate)- We write a smart contract to create our own token on the local hardhat network and we use Remix IDE to interact with it.
+# Assessment-5
 
+We write a smart contract to create our own token on the local hardhat network and we use Remix IDE to interact with it.
 
 # Description
 
@@ -20,7 +20,7 @@ Follow the steps to connect your local hardhat network with Remix and interact w
 
 # Video walkthrough
 
-https://www.loom.com/share/378ea0c510304cef8f0741a67e2ed879?sid=1a08b6bd-a9d5-4c80-8b29-8f8ba763d966
+https://www.loom.com/share/a3018f537e044b1cb394b3c113d8ca8d?sid=88f46f3f-ee56-4784-a462-a7f3e5ad12e7
 
 
 # Authors
